@@ -1,5 +1,8 @@
 hello
 
+working on [@kinode-dao](https://github.com/kinode-dao)
+
+running [kino.casa](kino.casa)
 
 background from [taolin.us](taolin.us)
 
