@@ -20,4 +20,4 @@
 
 working on [@kinode-dao](https://github.com/kinode-dao)
 
-running [kino.casa](kino.casa)
+running [kino.casa](https://kino.casa)
