@@ -1,4 +1,4 @@
-<img src="https://mothu.kino.casa/kcard:kcard:mothu-st-doria.os/kcard.png">
+<img src="https://mothu.kino.casa/kcard:kcard:mothu-et-doria.os/kcard.png">
 
 working on [@kinode-dao](https://github.com/kinode-dao)
 
